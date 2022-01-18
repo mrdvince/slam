@@ -15,7 +15,7 @@ Implement SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world
 
 1. Clone the repository, and navigate to the downloaded folder.
 ```
-git clone https://github.com/Droid021/slam.git
+git clone https://github.com/mrdvince/slam.git
 cd slam
 ```
 
